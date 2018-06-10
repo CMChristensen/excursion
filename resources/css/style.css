@@ -26,3 +26,7 @@ p {
   color: aquamarine;
   text-decoration: underline;
 }
+
+.copyright {
+  text-align: right;
+}
